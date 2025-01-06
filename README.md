@@ -34,3 +34,7 @@ Options:
 ```shell
 ./aleominer_ubuntu22_04 --account aleo123.8x4090 --pool 172.65.162.169:9038 -g 0,1,2,3,4,5,6,7
 ```
+Or
+```shell
+./aleominer_ubuntu22_04 --account aleo123.8x4090 --pool aleo.antpool.com:9038 -g 0,1,2,3,4,5,6,7
+```
