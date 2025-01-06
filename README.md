@@ -4,7 +4,7 @@ This is a mining tool for ALEO, exclusively for use with ANTPOOL. For more detai
 
 ## Requirements
 
-- Download software with specific suffixes according to the version of your operating system. Currently `Ubuntu18.04`, `Ubuntu20.04` and `Ubuntu22.04` is supported
+- Download software with specific suffixes according to the version of your operating system. Currently `Ubuntu18.04`, `Ubuntu20.04` and `Ubuntu22.04` are supported
 - CUDA version >= 12.0
 - A good network environment
 
